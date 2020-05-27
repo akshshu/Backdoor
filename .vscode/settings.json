@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "C:\\Users\\Akash\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--errors-only",
+        "--ignored-classes=_socketobject"
+    ],
+    "code-runner.executorMap": {
+        "python": "python"
+    },
+}
